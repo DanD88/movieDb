@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 
 import SearchMovie from "./components/searchMovie"
-import Footer from "./components/footer"
+// import Footer from "./components/footer"
 
 import './App.css'
 

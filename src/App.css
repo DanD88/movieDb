@@ -109,6 +109,8 @@ input {
 }
 
 .card img {
+  position: absolute;
+  inset: 0;
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
